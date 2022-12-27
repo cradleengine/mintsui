@@ -1,0 +1,2 @@
+# mintsui
+MintSui Discord Bot.
