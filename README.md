@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mintsui.com">
-    <img alt="mintsui logo" width="75%" src="https://user-images.githubusercontent.com/39306557/209747719-412595d9-ed17-4521-94e4-a83bb8ee2dcb.png" />
+    <img alt="mintsui logo" width="100%" src="https://user-images.githubusercontent.com/39306557/209747719-412595d9-ed17-4521-94e4-a83bb8ee2dcb.png" />
   </a>
 </p>
 
