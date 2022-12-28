@@ -5,7 +5,7 @@
 </p>
 
 # MintSui
-MintSui is a simple Discord bot that allows users to Generate AI NFTs and Mint them on the Sui Blockchain. [Add To Your Server Now](https://discord.com/api/oauth2/authorize?client_id=1053439003581501480&permissions=8&scope=bot)
+MintSui is a simple Discord bot that allows users to Generate AI NFTs and Mint them on the Sui Blockchain. [Add To Your Server Now](https://discord.com/api/oauth2/authorize?client_id=1053439003581501480&permissions=8&scope=bot%20applications.commands)
 
 ## Pre-requistes
 - You will need to create an `.env` file and put it in the root directory of the repository. Look at `.env.example` to see what the env should look like.
